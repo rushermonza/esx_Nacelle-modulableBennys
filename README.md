@@ -1,3 +1,9 @@
-Drag and drop modular_carlift-master in your resources folder, rename without "-master", and add start/ensure modular_carlift in your server.cfg
+Voici une nacelle modulable pour aider vos mécanos à voir sous vos voitures, et une ouverture de la salle de peinture au benny’s :
 
-It's only work in the bennys. To make work the carlift, just stand next to the box beside the carlift, press E to open the menu, and test spawn prop to spawn the carlift. Then you can go up or down via the menu.
+Images :
+
+https://imgur.com/eZ1cGv0
+
+dans server.cfg
+
+start esx_Nacelle-modulableBennys
