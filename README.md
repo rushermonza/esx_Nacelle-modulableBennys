@@ -2,7 +2,7 @@ Voici une nacelle modulable pour aider vos mécanos à voir sous vos voitures, e
 
 Images :
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/5Hrfoz2" data-context="false" ><a href="//imgur.com/a/5Hrfoz2"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+https://imgur.com/eZ1cGv0
 
 dans server.cfg
 
